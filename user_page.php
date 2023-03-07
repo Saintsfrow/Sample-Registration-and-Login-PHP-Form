@@ -28,7 +28,7 @@ if(!isset($_SESSION['loggedin'])){
       <h1>Thank You for registering <span><?php echo $_SESSION['user_name'] ?></span></h1>
       <p>You have passed the robot verification. You can proceed with Feedback Submission or Logout as you wish!</p>
       <a href="logout.php" class="btn">Logout</a>
-      <a href="https://saintsfrow.github.io/sample_feedback_form/" class="btn">Feedback</a>
+      <a href="https://saintsfrow.github.io/Sample-Feedback-Form/" class="btn">Feedback</a>
    </div>
 </div>
 </body>
